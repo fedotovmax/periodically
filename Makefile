@@ -1,0 +1,2 @@
+push:
+	@./gen.sh
